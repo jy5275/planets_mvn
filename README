@@ -1,0 +1,5 @@
+Planets - a minigame on desktop
+Excute this:
+$ mvn clean compile
+$ cd target/classes
+$ java com.github.jy5275.Welcome
